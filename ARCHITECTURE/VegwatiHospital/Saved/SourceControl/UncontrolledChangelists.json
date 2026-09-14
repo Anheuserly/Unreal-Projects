@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Volumes/HP_P500/GitHub/Unreal-Projects/ARCHITECTURE/VegwatiHospital/Content/VegwatiHospital/Levels/LV_Exterior.umap"
+				"/Volumes/HP_P500/GitHub/Unreal-Projects/ARCHITECTURE/VegwatiHospital/Content/VegwatiHospital/Levels/LV_Exterior.umap",
+				"/Volumes/HP_P500/GitHub/Unreal-Projects/ARCHITECTURE/VegwatiHospital/Content/VegwatiHospital/Lighting/BP_ExteriorLighting.uasset",
+				"/Volumes/HP_P500/GitHub/Unreal-Projects/ARCHITECTURE/VegwatiHospital/Content/VegwatiHospital/Cameras/BP_ExteriorCamera.uasset",
+				"/Volumes/HP_P500/GitHub/Unreal-Projects/ARCHITECTURE/VegwatiHospital/Content/VegwatiHospital/CAD/GroundFloor_Trace_HighRes.uasset",
+				"/Volumes/HP_P500/GitHub/Unreal-Projects/ARCHITECTURE/VegwatiHospital/Content/VegwatiHospital/Materials/M_GroundPlanTrace.uasset"
 			]
 		}
 	]
